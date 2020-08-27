@@ -1,4 +1,4 @@
-# GAandPIR
+# GAandPIR-MentalWorkloadClassifier
 Graduation Assignment (GA) from Instituto Tecnológico de Aeronáutica (ITA) and Innovation and Research Project (PIR) from Institut Supérieur de l’Aéronautique et de l’Espace (ISAE-SUPAERO).
 
 The purpose of this project is to develop a mental workload classifier for real-time crew monitoring using machine learning algorithm. The programming language used was Python and Matlab.
